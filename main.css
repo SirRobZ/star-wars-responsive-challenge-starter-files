@@ -1,0 +1,28 @@
+header {
+	background-color: sandybrown;
+	height: 100px;
+}
+
+
+main {
+	padding-top: 50px;
+}
+
+main .row {
+	margin-bottom: 20px;
+}
+
+.card {
+	margin-top: 10px;
+	border: 1px solid black;
+}
+
+.card h1, p {
+	padding-left: 15px;
+	margin-bottom: 10px;
+}
+
+.card img {
+	width: 100%;
+
+}
